@@ -12,52 +12,51 @@ const Widget = () => {
         <div className="right-sidebar-div-2">
           <img src={pen} alt="pen" width="18" />
           <p>
-            Observability is key to the future of software (and your DevOps
-            career)
+            The word technology was coined in 330 BC by the one and only Aristotle.
           </p>
         </div>
         <div className="right-sidebar-div-2">
           <img src={pen} alt="pen" width="18" />
-          <p>Podcast 374: How valuable is your screen name?</p>
+          <p>The QWERTY keyboard can slow your typing speed on the computer.</p>
         </div>
       </div>
-      <h4>Featured on Meta</h4>
+      <h4>Tech facts and more</h4>
       <div className="right-sidebar-div-1">
         <div className="right-sidebar-div-2">
           <img src={comment} alt="pen" width="18" />
-          <p>Review queue workflows - Final release....</p>
+          <p>Xerox is not a verb for photocopying but is a name of a company that creates and sells xerographic technology.</p>
         </div>
         <div className="right-sidebar-div-2">
           <img src={comment} alt="pen" width="18" />
           <p>
-            Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG
+            Motorola produced the first-ever portable mobile phone.
           </p>
         </div>
         <div className="right-sidebar-div-2">
           <img src={blackLogo} alt="pen" width="18" />
           <p>
-            Outdated Answers: accepted answer is now unpinned on Stack Overflow
+            Japan has the fastest Internet speed of 319 terabits per second.
           </p>
         </div>
       </div>
-      <h4>Hot Meta Posts</h4>
+      <h4>More Tech Facts</h4>
       <div className="right-sidebar-div-1">
         <div className="right-sidebar-div-2">
-          <p>38</p>
+          <p>25689</p>
           <p>
-            Why was this spam flag declined, yet the question marked as spam?
+            No one yet has verified the identity of Bitcoins founder.
           </p>
         </div>
         <div className="right-sidebar-div-2">
           <p>20</p>
           <p>
-            What is the best course of action when a user has high enough rep
-            to...
+            Aeromobil has introduced the world's first commercial flying car.
+
           </p>
         </div>
         <div className="right-sidebar-div-2">
           <p>14</p>
-          <p>Is a link to the "How to ask" help page a useful comment?</p>
+          <p>Flying cars exist! The Slovakian company aims to debut the world's</p>
         </div>
       </div>
     </div>
